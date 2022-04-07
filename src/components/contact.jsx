@@ -20,12 +20,12 @@ export const Contact = (props) => {
     console.log(name, email, message)
     emailjs
       .sendForm(
-        'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
+        'service_abfnrgr', 'template_6ef3cjo', e.target, 'lLFPejDJp9Dz_ywF4'
       )
       .then(
         (result) => {
           console.log(result.text)
-          clearState()
+          //clearState()
         },
         (error) => {
           console.log(error.text)
@@ -128,17 +128,7 @@ export const Contact = (props) => {
                 <ul>
                   <li>
                     <a href={props.data ? props.data.facebook : '/'}>
-                      <i className='fa fa-facebook'></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.twitter : '/'}>
-                      <i className='fa fa-twitter'></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
-                      <i className='fa fa-youtube'></i>
+                      <i className='fa fa-linkedin'></i>
                     </a>
                   </li>
                 </ul>
@@ -147,15 +137,44 @@ export const Contact = (props) => {
           </div>
         </div>
       </div>
+
       <div id='footer'>
+      <div className='col-md-12'>
+      <div className='row'>
         <div className='container text-center'>
-          <p>
-            &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
-            <a href='http://www.templatewire.com' rel='nofollow'>
-              TemplateWire
-            </a>
-          </p>
+
+          <ul>
+            <li>
+            <a href="javascript:alert('The following information (Impressum) is required under sec. 5 German Telemedia Act (TMG). \n
+            Management board: Arezki Djelouadji, Hinsight Analytics UG  (haftungsbechränkt) \n
+
+            Address: Frankensteiner Platz 25, 60594 Frankfurt a. Main. \n
+
+            Registration: District court of Frankfurt am Main Reg. No. 118943 \n
+
+            Out-of-court settlement of disputes / information duties according to § 36 Consumer Dispute Settlement Act (VSBG). \n
+
+            Note for clarification:  \n
+
+            Our offer and our services are directed exclusively at companies. We are therefore not obliged to participate in dispute resolution proceedings before a consumer arbitration board as defined in § 2 VSGB.G) \n
+
+            You are welcome to contact us via:
+
+            contact@tracific.com');" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Imprint</a>
+            </li>
+          </ul>
+
+          <ul>
+          <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+            <a href="javascript:alert('No data is collected on this website apart from the web server logs. The server logs are used for system administration purposes only. There is no cookie nor beacons, and no forms to be filled out with personal information. Additionally there is no statistics collection tool, no third party content delivery (ads) through which your information could be transmitted to or from tracific.com website. This website is one simple landing page which is short, efficient and minimalistic and self-served. If you have questions or concerns please contact admin@tracific.com');" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Privacy Policy</a>
+          </li>
+          </ul>
         </div>
+          <div className='container text-center'>
+        &copy; All rights reserved. TemplateWire.
+        </div>
+      </div>
+      </div>
       </div>
     </div>
   )

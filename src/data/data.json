@@ -1,100 +1,72 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "The path to reach your net zero target",
+    "paragraph": "Tracific accelerates the participation of companies in the fight against climate change"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Carbon credits have too long been associated with greenwashing, we want to ensure on the seller side the  “integrity, transparency and traceability” of all entries made and on the buyer side that carbon credits are only used to neutralize hard-to-abate, unavoidable emissions. Carbon offsetting is not a silver bullet for tackling climate change. But when done right, it is an important part of an effective climate or carbon management strategy. Businesses should follow a hierarchy of actions. They need to measure and understand their footprint, reduce and avoid what emissions they can and then look to offset, or balance, those residual emissions that they cannot reduce?",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "18 years experience in nature based projects and mobility",
+      "Intensive use of technology",
+      "Networking in the EU and Asia",
+      "Anti-greenwashing DNA and focus"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Forestation, Pakistan, 101,000 tonnes CO2e",
       "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "smallImage": "/img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Methane capture, Malaysia, 147,000 tonnes CO2e",
       "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "smallImage": "img/portfolio/02-small.png"
     },
     {
-      "title": "Project Title",
+      "title": "Pyrolysis project, South Korea, 11,000 tonnes CO2e",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Forestation, France, 15,500 tonnes CO2e",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Use of alternative fuels, France, 52,000 tonnes CO2e",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-sitemap fa-spin",
+      "name": "Decide",
+      "text": "Compensation should only be used for hard-to-abate. Let’s check if this is very useful."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-expand fa-spin ",
+      "name": "Plan",
+      "text": "Decide together on a strategy to use compensation. Which projects and where and how much?"
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-bar-chart fa-spin ",
+      "name": "Verification",
+      "text": "Long-term data pipeline, CO2e measuring framework choice and audits"
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-money fa-spin fa-3x fa-fw",
+      "name": "Retiring",
+      "text": "Transactional process in order to claim CO2e reduction"
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cog fa-spin fa-3x fa-fw",
+      "name": "Lifetime reporting",
+      "text": "Lifelong check objectives have been reduced with our remote sensing technologies and sensors embedded in projects"
     }
   ],
   "Testimonials": [
@@ -132,13 +104,13 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Arezki",
+      "job": "Co-Founder"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Fabien",
+      "job": "Co-Founder"
     },
     {
       "img": "img/team/03.jpg",
@@ -152,33 +124,31 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Paris, France | Frankfurt, Germany",
+    "phone": "+33 7 67 20 56 31 | +49 1523 652 1632",
+    "email": "contact@tracific.com",
+    "facebook": "https://www.linkedin.com/company/tracific/"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-long-arrow-left",
+      "title": "1. Origination",
+      "text" : "Decarbonization projects in the donain of forests, industrial projects or raw material recyclcing"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-search ",
+      "title": "2. Rigorous selection",
+      "text": "We apply a due diligence process on the projects selected to control and get the best carbon credits, which means you don’t waste money on bad investments or put your reputation at risk."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa  fa-check-circle ",
+      "title": "3. Audit",
+      "text": "We are working with world class standard (Verra, Gold Standard, RED++) in order to third-party check our projects"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-calculator",
+      "title": "4. Lifetime Measure",
+      "text": "We are building a cloud-based platform connected to carbon reduction projects owners in order to find, track, trade carbon credits in order to ensure integrity, transparency and traceability of all entries made. "
     }
   ]
 }
